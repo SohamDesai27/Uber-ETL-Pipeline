@@ -31,4 +31,4 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
-The project employs the "TLC Trip Record Data" comprising records from both Yellow and Green taxis. These records encompass essential trip details such as pick-up and drop-off dates/times, locations, distances, fares, rate types, payment types, and passenger counts reported by drivers.
+
