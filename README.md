@@ -11,6 +11,7 @@ This ambitious project aims to conduct comprehensive ride analytics on Uber data
 - Programming Language - Python
 
 Google Cloud Platform
+
 1.Google Storage: Secure and scalable cloud storage for storing and managing the dataset.
 2.Compute Instance: A flexible and customizable virtual machine used for processing and executing tasks.
 3.BigQuery: A powerful and fully-managed data warehouse for querying and analyzing large datasets.
